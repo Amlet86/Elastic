@@ -1,0 +1,4 @@
+springdoc:
+  packages-to-scan: ru.amlet.controller
+  paths-to-match: /**
+
